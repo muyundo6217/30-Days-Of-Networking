@@ -1,6 +1,6 @@
 # Day 1 — Cisco IOS Navigation & Basic Device Setup
 
-## Lab Overview
+## Lab Overview (Used Claude to clean up the document)
 Configured basic device settings on a Cisco router and switch including
 hostname, passwords, banner, IP addressing, and management access.
 Practiced navigating all IOS modes and saving configuration.
