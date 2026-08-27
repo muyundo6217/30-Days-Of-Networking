@@ -1,7 +1,7 @@
 # Day 1 — Cisco IOS Navigation & Basic Device Setup
 
 ## Lab Overview (Used Claude to clean up the document)
-Configured basic device settings on a Cisco router and switch including
+Configured basic device settings on a Cisco router and switch, including
 hostname, passwords, banner, IP addressing, and management access.
 Practiced navigating all IOS modes and saving configuration.
 
@@ -117,14 +117,14 @@ becomes legally complicated in some jurisdictions.
 **Interface Status Codes:**
 up/up means the interface is fully working. admin down means someone
 ran the shutdown command. Knowing these instantly is critical for
-NOC troubleshooting — show ip interface brief is the first command
+NOC troubleshooting show ip interface brief is the first command
 you run on any ticket.
 
 ---
 
 ## Challenges Faced
 <!-- Fill this in with any issues you ran into and how you solved them -->
-- remembering to assign an ip address and default gateway to the main PC
+- remembering to assign an IP address and default gateway to the main PC
 
 ---
 
